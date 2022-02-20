@@ -27,11 +27,11 @@ fiat = {
     'CNY',
 }
 trading_fee = {
-    'binance': 0.00075,
-    'kraken': 0.0026,
-    'bitfinex': 0.002,
-    'kucoin': 0.001,
-    'bittrex': 0.0025,
+    'binanceus': 0.00075,
+    'kucoin': 0.0026,
+    'kraken': 0.002,
+    'coinbasepro': 0.001,
+    'cex': 0.0025,
 }
 # tokens to be considered, too many small coins will lead to inefficient trading
 tokens = {
