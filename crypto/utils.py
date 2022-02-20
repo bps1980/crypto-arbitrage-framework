@@ -50,7 +50,7 @@ def get_crypto_prices(coin_set, convert='USD'):
     }
     headers = {
         'Accepts': 'application/json',
-        'X-CMC_PRO_API_KEY': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
+        'X-CMC_PRO_API_KEY': '36074a33-a323-421e-8ac3-0ca9c80bf3ee',
     }
 
     session = Session()
