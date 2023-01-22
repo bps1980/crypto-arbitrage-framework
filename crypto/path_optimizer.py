@@ -1,8 +1,8 @@
 from docplex.mp.model import Model
 import numpy as np
 from itertools import combinations
-from .info import fiat, trading_fee, tokens
-from .utils import get_withdrawal_fees, get_crypto_prices, multiThread
+from info import fiat, trading_fee, tokens
+from utils import get_withdrawal_fees, get_crypto_prices, multiThread
 import re
 from copy import deepcopy
 

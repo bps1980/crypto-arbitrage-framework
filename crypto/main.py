@@ -1,8 +1,8 @@
-from crypto.exchanges import exchanges
-from crypto.path_optimizer import PathOptimizer
-from crypto.amount_optimizer import AmtOptimizer
-from crypto.trade_execution import TradeExecutor
-from crypto.utils import save_record
+from exchanges import exchanges
+from path_optimizer import PathOptimizer
+from amount_optimizer import AmtOptimizer
+from trade_execution import TradeExecutor
+from utils import save_record
 import time
 
 if __name__ == '__main__':
